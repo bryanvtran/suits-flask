@@ -1,0 +1,10 @@
+click==6.7
+Flask==0.12
+itsdangerous==0.24
+Jinja2==2.9.4
+MarkupSafe==0.23
+pyactiveresource==2.1.2
+PyYAML==3.12
+ShopifyAPI==2.1.8
+six==1.10.0
+Werkzeug==0.11.15
